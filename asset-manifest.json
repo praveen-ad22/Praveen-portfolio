@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1076fa46.css",
+    "main.js": "/portfolio/static/js/main.5e0f82ce.js",
+    "static/media/Residencia.png": "/portfolio/static/media/Residencia.a3fe467762d8ee8b57f2.png",
+    "static/media/pic6.jpg": "/portfolio/static/media/pic6.dddf9dfdaf9230f43a9f.jpg",
+    "static/media/pic1.jpg": "/portfolio/static/media/pic1.59a1c473d2a5b0d3c184.jpg",
+    "static/media/Praveen_R_Resume.pdf": "/portfolio/static/media/Praveen_R_Resume.268a071c541a2536d656.pdf",
+    "static/media/pic3.jpg": "/portfolio/static/media/pic3.52760ebbc4dcff3f1b00.jpg",
+    "static/media/drumkit.png": "/portfolio/static/media/drumkit.9682e024a219d121f161.png",
+    "static/media/pic5.jpg": "/portfolio/static/media/pic5.6b85039eba72cebd78af.jpg",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/pic2.jpg": "/portfolio/static/media/pic2.3aa7ab3662b4176276ed.jpg",
+    "static/media/pic4.jpg": "/portfolio/static/media/pic4.c4e1b56b82d67a41855c.jpg",
+    "static/media/sLogo.png": "/portfolio/static/media/sLogo.0664b8a7a87ae48c6267.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/ASocial.png": "/portfolio/static/media/ASocial.85a3e13813e473585985.png",
+    "static/media/Vartalap.png": "/portfolio/static/media/Vartalap.25dd46bb3d90905e8897.png",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.1076fa46.css.map": "/portfolio/static/css/main.1076fa46.css.map",
+    "main.5e0f82ce.js.map": "/portfolio/static/js/main.5e0f82ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1076fa46.css",
+    "static/js/main.5e0f82ce.js"
+  ]
+}
