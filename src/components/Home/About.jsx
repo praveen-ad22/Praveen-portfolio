@@ -20,11 +20,11 @@ const About = () => {
                   LET ME <span className="yellow"> INTRODUCE </span> MYSELF
                 </h1>
                 <p className="home-about-body">
-                 Hi, my name is <span className="yellow">Avanish Srivastava </span>
-                 and I'm from <span className="yellow"> Gorakhpur, UttarPradesh, India.</span>
+                 Hi, my name is <span className="yellow"> PRAVEEN R </span>
+                 and I'm from <span className="yellow"> Karur, Tamil Nadu, India.</span>
                 <br />
                 <br />
-                I am currently a 4th-year undergraduate in the Computer Science and Engineering Concentration at Pranveer Singh Institute of Technology, Kanpur.
+                I am currently a 3th-year undergraduate in the Artificial Intelligence and Data Science Concentration at Bannari Amman Institute of Technology, Erode.
                 <br />
                 <br />
                   As a
@@ -32,9 +32,8 @@ const About = () => {
                   I enjoy tackling new challenges and continuously expanding my skillset.
                   <br />
                   <br />I am proficient in
-                    <b className="yellow"> C++ </b>
-                    as well as have knowledge in programming languages such as C, Python, Javascript
-                  <b className="yellow"> and Solidity.</b>
+                    <b className="yellow"> Java </b>
+                    as well as have knowledge in programming languages such as C, Javascript
                   <br />
                   <br />
                   I have a passion for working
