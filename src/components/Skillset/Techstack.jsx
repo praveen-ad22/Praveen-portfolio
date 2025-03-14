@@ -8,9 +8,6 @@ import {
 } from "react-icons/di";
 import {
   SiCss3,
-  SiSass,
-  SiSolidity,
-  SiRedux,
   SiMongodb,
   SiHtml5
 } from "react-icons/si";
