@@ -1,8 +1,7 @@
 import React from 'react'
 import { Container, Row, Col } from "react-bootstrap";
 import {
-  AiFillGithub,
-  AiOutlineTwitter,
+  AiFillGithub, 
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -22,7 +21,7 @@ const Social = () => {
                 <ul className="contact-social-links">
                   <li className="contact-icons">
                     <a
-                      href="https://github.com/Avanishsri31"
+                href=" https://github.com/praveen-ad22"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color  contact-social-icons"
@@ -32,17 +31,7 @@ const Social = () => {
                   </li>
                   <li className="contact-icons">
                     <a
-                      href="https://twitter.com/Avanish66224549"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="icon-color  contact-social-icons"
-                    >
-                      <AiOutlineTwitter />
-                    </a>
-                  </li>
-                  <li className="contact-icons">
-                    <a
-                      href="https://www.linkedin.com/in/avanish-srivastava-533035203/"
+                     href="https://www.linkedin.com/in/praveen-rajenderan-247923267/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color  contact-social-icons"
